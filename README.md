@@ -22,4 +22,4 @@ This report presents the findings of our analysis of a home sales dataset. We ha
 * The query filtering out the view ratings with an average price greater than or equal to $350,000 was run using the Parquet DataFrame. The runtime was determined and ** compared to the cached version.
 * The "home_sales" temporary table was uncached and verified to be no longer cached in memory.
 
-## Our findings indicate that caching can improve query performance, especially for larger datasets and more complex queries. Additionally, saving data in Parquet format allows for more efficient querying and storage, as well as partitioning based on specific columns for better performance.
+### Our findings indicate that caching can improve query performance, especially for larger datasets and more complex queries. Additionally, saving data in Parquet format allows for more efficient querying and storage, as well as partitioning based on specific columns for better performance.
