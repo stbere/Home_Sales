@@ -1,4 +1,4 @@
-<p align="center"> # Home Sales :house_with_garden: </p>
+# Home Sales :house_with_garden:
 
 ## Summary Report :page_facing_up:
 This report presents the findings of our analysis of a home sales dataset. We have used PySpark to perform various operations, including reading the dataset, creating temporary views, running SQL queries, caching, and saving the data in Parquet format.
