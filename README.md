@@ -5,7 +5,7 @@ This report presents the findings of our analysis of a home sales dataset. We ha
 
 
 <p align="center">
-  <img width="460" height="500" src="https://user-images.githubusercontent.com/97980927/228965889-f04e0db0-04b7-415c-bda9-ad8a1f13aee9.png">
+  <img width="460" height="550" src="https://user-images.githubusercontent.com/97980927/228965889-f04e0db0-04b7-415c-bda9-ad8a1f13aee9.png">
 </p>
 
 
