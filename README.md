@@ -1,11 +1,11 @@
 # Home Sales :house_with_garden:
 
-# Summary Report
+## Summary Report :speech_balloon:
 This report presents the findings of our analysis of a home sales dataset. We have used PySpark to perform various operations, including reading the dataset, creating temporary views, running SQL queries, caching, and saving the data in Parquet format.
 
 
 <p align="center">
-  <img width="460" height="550" src="https://user-images.githubusercontent.com/97980927/228965889-f04e0db0-04b7-415c-bda9-ad8a1f13aee9.png">
+  <img width="460" height="600" src="https://user-images.githubusercontent.com/97980927/228965889-f04e0db0-04b7-415c-bda9-ad8a1f13aee9.png">
 </p>
 
 
